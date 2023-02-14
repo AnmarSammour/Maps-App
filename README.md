@@ -4,6 +4,9 @@ This is an application to display Google Maps of all kinds within the Android St
 # Explanatory pictures
 
 ![11](https://user-images.githubusercontent.com/112755848/218721658-18c42026-3692-4ec8-90ba-8df53dc93980.JPG)
+
+
+<hr>
 ![6](https://user-images.githubusercontent.com/112755848/218721642-89de0a93-8a76-4c12-a49a-93fa54d973e5.jpg)
 ![33](https://user-images.githubusercontent.com/112755848/218721668-f2799851-25ae-4ab5-86b8-f2618735e918.JPG)
 ![44](https://user-images.githubusercontent.com/112755848/218721674-78740596-1108-4242-b45b-3eb66dbb4fb1.JPG)
