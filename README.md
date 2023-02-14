@@ -7,10 +7,13 @@ This is an application to display Google Maps of all kinds within the Android St
 
 
 ![6](https://user-images.githubusercontent.com/112755848/218721642-89de0a93-8a76-4c12-a49a-93fa54d973e5.jpg)
+# 
 ![33](https://user-images.githubusercontent.com/112755848/218721668-f2799851-25ae-4ab5-86b8-f2618735e918.JPG)
 
 # 
 ![44](https://user-images.githubusercontent.com/112755848/218721674-78740596-1108-4242-b45b-3eb66dbb4fb1.JPG)
+
+# 
 ![50](https://user-images.githubusercontent.com/112755848/218721683-27582dbe-b6ab-43e2-ab46-827760cb7eec.jpg)
 
 # Find a location
